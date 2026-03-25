@@ -1,0 +1,45 @@
+City,Country,cost of living index,rent index,difference 
+Zurich; ,Switzerland,"118,50","80,50","38,00"
+Geneva,Switzerland,"116,50","77,70","38,80"
+Basel,Switzerland,"112,40","74,50","37,90"
+Lausanne,Switzerland,"111,50","73,10","38,40"
+Lugano,Switzerland,"110,10","73,10","37,00"
+Bern,Switzerland,"110,00","72,60","37,40"
+New York,United States,"100,00","70,60","29,40"
+Reykjavik,Iceland,"98,90","70,10","28,80"
+Honolulu,United States,"98,20","69,90","28,30"
+San Francisco,United States,"97,60","69,00","28,60"
+Tel Aviv-Yafo,Israel,"91,40","69,00","22,40"
+Seattle,United States,"90,30","67,40","22,90"
+Oslo,Norway,"90,20","65,10","25,10"
+Singapored,Singapore,"87,70","64,60","23,10"
+London,United Kingdom,"87,50","63,90","23,60"
+Washington,United States,"87,30","63,10","24,20"
+San Jose,United States,"86,40","62,60","23,80"
+Boston,United States,"86,20","61,20","25,00"
+Charleston,United States,"86,00","60,20","25,80"
+Copenhagen,Denmark,"85,70","60,00","25,70"
+Bergen,Norway,"85,60","59,70","25,90"
+Oakland,United States,"85,20","59,50","25,70"
+Trondheim,Norway,"84,90","58,20","26,70"
+Ramat Gan,Israel,"83,70","56,50","27,20"
+Berkeley,United States,"83,50","56,60","26,90"
+Jerusalem,Israel,"83,00","55,20","27,80"
+Stavanger,Norway,"82,70","55,00","27,70"
+Amsterdam,Netherlands,"82,60","54,80","27,80"
+San Diego,United States,"82,00","53,80","28,20"
+Anchorage,United States,"81,50","51,90","29,60"
+Минимум,"81,5",,,
+Среднее,"92,02",,,
+Медиана,"87,30",,,
+Максимум,"118,50",,,
+"Топ 5 дорогих городов:Zurich; 
+Geneva
+Basel
+Lausanne
+Lugano",,,,
+"Топ 5 дешевых городов: San Diego
+Jerusalem
+Charleston
+New York
+Bern",,,,
